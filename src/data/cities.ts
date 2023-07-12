@@ -1,0 +1,22 @@
+export default [
+    { "name": "Arad", "x": 29, "y": 192, "heuristic": 366 },
+    { "name": "Bucharest", "x": 268, "y": 55, "heuristic": 0 },
+    { "name": "Craiova", "x": 163, "y": 22, "heuristic": 160 },
+    { "name": "Dobreta", "x": 91, "y": 32, "heuristic": 242 },
+    { "name": "Eforie", "x": 420, "y": 28, "heuristic": 161 },
+    { "name": "Fagaras", "x": 208, "y": 157, "heuristic": 178 },
+    { "name": "Giurgiu", "x": 264, "y": 8, "heuristic": 77 },
+    { "name": "Hirsova", "x": 396, "y": 74, "heuristic":151 },
+    { "name": "Iasi", "x": 347, "y": 204, "heuristic": 226 },
+    { "name": "Lugoj", "x": 91, "y": 98, "heuristic": 244 },
+    { "name": "Mehadia", "x": 93, "y": 65, "heuristic": 241 },
+    { "name": "Neamt", "x": 290, "y": 229, "heuristic": 234 },
+    { "name": "Oradea", "x": 62, "y": 258, "heuristic": 380 },
+    { "name": "Pitesti", "x": 220, "y": 88, "heuristic": 98 },
+    { "name": "Rimnicu_Vilcea", "x": 147, "y": 124, "heuristic": 193 },
+    { "name": "Sibiu", "x": 126, "y": 164, "heuristic": 253 },
+    { "name": "Timisoara", "x": 32, "y": 124, "heuristic": 329 },
+    { "name": "Urziceni", "x": 333, "y": 74, "heuristic": 80 },
+    { "name": "Vaslui", "x": 376, "y": 153, "heuristic": 199 },
+    { "name": "Zerind", "x": 44, "y": 225, "heuristic": 374 }
+  ]   

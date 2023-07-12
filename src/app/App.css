@@ -1,0 +1,59 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.card{
+  position: relative;
+  padding: 0;
+  box-shadow: 1px 1px 15px rgba(0,0,0,.3);
+}
+
+.card .author{
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: start;
+  padding-left: 30px;
+}
+
+.card .author h5{
+  margin: 0;
+  line-height: 0;
+}
+
+.card .author h4{
+  padding-bottom: 5px;
+  line-height: 0;
+}
+
+.card .row{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card .row .legend{
+  display: flex;
+  align-items: center;
+}
+
+.card .row .legend .color{
+  width: 35px;
+  height: 35px;
+  border-radius: 7px;
+}
+
+.card .row .legend h4{
+  padding-left: 8px;
+  padding-right: 8px;
+}
